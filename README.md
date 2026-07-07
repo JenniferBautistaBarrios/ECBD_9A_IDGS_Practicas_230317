@@ -18,11 +18,10 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 
 ### Historial de Prácticas
 
-| **#** | **Descripción**                                                                                  | **Potenciador** | **Estatus** | **Fecha**  |
-| ----- | ------------------------------------------------------------------------------------------------ | --------------- | ----------- | ---------- |
-| 5.    | [Introducción al uso de Python en el Análisis de Datos](./practices/practice05/practica05.ipynb) | 50              | Concluida   | 03/06/2026 |
-| 6.    | [Ciencia de Datos para el Bien: **DonorsChoose**](./practices/practice06/practice06.ipynb)       | 63              | Pendiente   | 03/07/2026 |
-
+| **Practica03** | **Descripción** | **Potenciador** | **Estatus** | **Fecha** |
+|:---:|---|:---:|:---:|:---:|
+| 3| [Introducción al uso de Python en el Análisis de Datos](https://github.com/JenniferBautistaBarrios/ECBD_9A_IDGS_Practicas_230317/blob/Practica03/Practica03/Practica03.ipynb) | 50 | ✅ Concluida | 03/06/2026 |
+| 6 | [Ciencia de Datos para el Bien: **DonorsChoose**](./practices/practice06/practice06.ipynb) | 63 | ⏳ Pendiente | 03/07/2026 |
 ## Datos de Estudiante
 
 **Materia:** Extración de Conocimiento de Bases de Datos \

@@ -1,5 +1,5 @@
 
-# **ECBD_9B_PRACTICES_230317** | Jennifer Bautista Barrios
+# **ECBD_9A_IDGS_Practicas_230317** | Jennifer Bautista Barrios
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -29,5 +29,5 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 **Docente:** M.T.I Marco Antonio Ramírez Hernández \
 **Grado y Grupo:** 9° "A" \
 **Matrícula:** 230317\
-**Estudiante:** Jennifer Bautista Barrios \
+**Estudiante:** Jennifer Bautista Barrios 
 

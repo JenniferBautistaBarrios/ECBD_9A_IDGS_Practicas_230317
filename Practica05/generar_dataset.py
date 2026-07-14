@@ -28,7 +28,7 @@ dieta_cats = ["Mala", "Regular", "Buena"]
 escolaridad_cats = ["Sin escolaridad", "Primaria", "Secundaria", "Preparatoria", "Licenciatura", "Posgrado"]
 
 def id_paciente():
-    return f"PBI-{uuid.uuid4().hex[:8].upper()}"
+    return f"PUE-{uuid.uuid4().hex[:8].upper()}"
 
 def fecha_registro():
     inicio = datetime(2024, 3, 1)

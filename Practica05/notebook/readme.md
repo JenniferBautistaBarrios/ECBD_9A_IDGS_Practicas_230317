@@ -3,8 +3,6 @@
 # 🫀 Práctica 05 — Generación de Dataset de Pacientes para Riesgo de Infarto Cardíaco en Puebla
 
 ![Status](https://img.shields.io/badge/status-completado-brightgreen)
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![Pandas](https://img.shields.io/badge/pandas-EDA-150458)
 ![Seaborn](https://img.shields.io/badge/seaborn-visualizaci%C3%B3n-FF5D8F)
 ![Registros](https://img.shields.io/badge/registros-5%2C000-C9184A)
 ![Licencia](https://img.shields.io/badge/uso-acad%C3%A9mico-lightgrey)

@@ -17,11 +17,11 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 ## Tabla de Prácticas
 
 ## Historial de Prácticas
-
 | **#** | **Descripción** | **Potenciador** | **Estatus** | **Fecha** |
 |:---:|---|:---:|:---:|:---:|
 | 3 | [Introducción al uso de Python en el Análisis de Datos](https://github.com/JenniferBautistaBarrios/ECBD_9A_IDGS_Practicas_230317/blob/Practica04/Practica03/Practica03.ipynb) | 50 | ✅ Concluida | 03/06/2026 |
-| 4 | [Ciencia de Datos para el Bien: **DonorsChoose**](https://github.com/JenniferBautistaBarrios/ECBD_9A_IDGS_Practicas_230317/blob/Practica04/Practica04/Practica04.ipynb) | 63 | concluido| 07/07/2026 |
+| 4 | [Ciencia de Datos para el Bien: **DonorsChoose**](https://github.com/JenniferBautistaBarrios/ECBD_9A_IDGS_Practicas_230317/blob/Practica04/Practica04/Practica04.ipynb) | 63 | ✅ Concluida | 07/07/2026 |
+| 5 | [Generación de Dataset de Pacientes con Indicadores para el Cálculo de Riesgo de Infarto Cardíaco en Puebla](https://github.com/JenniferBautistaBarrios/ECBD_9A_IDGS_Practicas_230317/blob/Practica05/Practica05/notebook/Practica05_230317.ipynb) | 25 | ✅ Concluida | 15/07/2026 |
 
 ---
 ## Datos de Estudiante
